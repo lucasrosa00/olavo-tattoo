@@ -71,7 +71,7 @@ export function Studio() {
 
         {/* Grid de Imagens */}
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
-          {studioImages.map((image, index) => (
+          {studioImages.map((image) => (
             <div
               key={image.id}
               className={`group relative overflow-hidden rounded-lg cursor-pointer transition-all duration-500`}
