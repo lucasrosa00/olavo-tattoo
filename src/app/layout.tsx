@@ -1,5 +1,6 @@
 import './globals.css';
 import type { ReactNode } from 'react';
+import { kirsty, sora } from "./fonts";
 
 export const metadata = {
   title: 'Olavo Tattoo',
@@ -8,7 +9,7 @@ export const metadata = {
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
-    <html lang="pt-BR">
+    <html lang="pt-BR" className={`${kirsty.variable} ${sora.variable}`}>
       <body className="min-h-screen bg-[color:var(--bg)] text-white">
         {children}
       </body>

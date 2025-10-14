@@ -1,19 +1,20 @@
 @import "tailwindcss";
 
-@font-face {
-  font-family: 'Sora';
-  src: url('/fonts/Sora-VariableFont_wght.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
+:root {
+  --font-kirsty: 'Kirsty', sans-serif;
 }
 
-@font-face {
-  font-family: 'Kirsty';
-  src: url('/fonts/kirsty.regular.otf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
+:root {
+  --font-kirsty: 'Sora', sans-serif;
+}
+
+.font-kirsty {
+  font-family: var(--font-kirsty);
+  letter-spacing: 3px;
+}
+
+.font-sora {
+  font-family: var(--font-sora);
 }
 
 :root {
@@ -39,13 +40,4 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
-}
-
-.font-sora {
-  font-family: "Sora", Sans-serif;
-}
-
-.font-kirsty {
-  font-family: "Kirsty", Sans-serif;
-  letter-spacing: 3px;
 }
