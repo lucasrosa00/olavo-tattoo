@@ -45,7 +45,7 @@ export function Footer() {
 
                 {/* Desenvolvido por */}
                 <a
-                    href="https://www.linksvibe.com.br"
+                    href="https://wa.me/5517991822859?text=Olá, vim pelo site do Olavo Tattoo e gostaria de criar o meu site..."
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-gray-500 hover:text-white transition-all mt-4 md:mt-0"
