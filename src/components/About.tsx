@@ -47,7 +47,7 @@ export function About() {
                             </p>
 
                             <p>
-                                Ao longo de sua jornada, conquistou mais de 90 premiações em competições nacionais, incluindo seis vitórias consecutivas na renomada Tattoo Week, onde também atua como jurado. Sua experiência como competidor e avaliador consolidou seu nome como uma das grandes referências do setor.
+                                Ao longo de sua jornada, conquistou mais de 90 premiações em competições nacionais, incluindo oito vitórias consecutivas na renomada Tattoo Week (A maior convenção de tatuagem do mundo), onde também atua como jurado. Sua experiência como competidor e avaliador consolidou seu nome como uma das grandes referências do setor.
                             </p>
 
                             <p>

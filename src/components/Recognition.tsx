@@ -76,7 +76,7 @@ export function Recognition() {
                                 {[
                                     { number: "90+", label: "Premiações" },
                                     { number: "120+", label: "Eventos" },
-                                    { number: "6x", label: "Tattoo Week" },
+                                    { number: "8x", label: "Tattoo Week" },
                                     { number: "16", label: "Anos de Carreira" },
                                 ].map((item, index) => (
                                     <motion.div

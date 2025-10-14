@@ -43,7 +43,7 @@ export function Curso() {
 
                         <div className="font-sora text-[#666666] text-base md:text-lg leading-relaxed space-y-4 mb-6">
                             <p>
-                                Descubra a arte e a técnica por trás do estilo Neotraditional com um dos maiores nomes da tatuagem no Brasil, Olavo Tattoo. Com mais de 70 prêmios em sua carreira e cinco vezes vencedor do Tattoo Week, Olavo é um mestre na arte do Neotraditional e está pronto para compartilhar seu conhecimento com você.
+                                Descubra a arte e a técnica por trás do estilo Neotraditional com um dos maiores nomes da tatuagem no Brasil, Olavo Tattoo. Com mais de 90 prêmios em sua carreira e oito vezes vencedor do Tattoo Week, Olavo é um mestre na arte do Neotraditional e está pronto para compartilhar seu conhecimento com você.
                             </p>
                         </div>
 
